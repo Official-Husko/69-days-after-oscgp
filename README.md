@@ -32,7 +32,7 @@ Tools Used:
 
 ### Final Notes
 
-A big thank you to the awesome community at [F95](https://f95zone.to/)! Without them this project would not have been possible.
+A big thank you to the awesome community at [F95](https://f95zone.to/)! Without them this project would not have been possible. The game can be found here [Game Page](https://f95zone.to/threads/69-days-after-v0-20-patreon-noxious-games.32013/)
 
 <br />
 <br />
