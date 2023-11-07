@@ -21,7 +21,7 @@ The Goal of this project is to open source the game ***69 Days After*** in a mor
 
 ### Contributing
 
-This project is open to contribution.
+This project is open to contribution. It can be found both on [GitHub](https://github.com/Official-Husko/69-days-after-oscgp) and [GitGud](https://gitgud.io/Official-Husko/69-days-after-oscgp)
 
 Tools Used:
 * [Godot Engine 4.X](https://godotengine.org/)
