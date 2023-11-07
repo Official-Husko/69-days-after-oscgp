@@ -1,0 +1,314 @@
+I found this on a forum:
+
+
+Contents
+
+Expeditions [A0]
+High School [A1]
+Central Hospital [A2]
+Police Station [A3]
+Grocery Store [A4]
+District College [A5]
+Shopping Mall [A6]
+Military Base [A7]
+Odd Cathedral [A8]
+Research Facility [A9]
+Infested Square [A10]
+Endings [B0]
+Good Ending 1 [B1]
+Secret Ending 1 [B2]
+Item Info [C0]
+
+
+Expeditions [A0]
+All Expeditions must be discovered by a character by using the Explore command. There are 10 locations to discover.
+
+High School [A1]
+1. Send a character to the High School, no item needed. This step requires a Sneak check. As of now there is no way to increase your chance of succeeding a Sneak check, just keep trying until you pass [Failure=Raped]
+2. Send a character with the Green Book
+3. Send a character to the High School, no item needed. This step requires a Sneak check [Failure=Raped]
+4. Send a character with the Blue Syringe
+5. Send a character with the Dildo [Unlocks Snow]
+After Completion
+1. The Map can be found here
+2. Clothes can be found here
+
+Central Hospital [A2]
+1. Send a character with the Fire Extinguisher
+2. Send a character with any weapon. This step requires a Combat check. Any weapon will result in 100% Success, no weapon will result in Rape
+3. Send a character with the Dildo. Sending Snow or Amber will also work with no Dildo (since they can use their dicks instead)
+4. Send a character with any weapon. This step requires a Combat check. Any weapon will result in 100% Success, no weapon will result in Rape
+5. Send a character with the Blue Syringe. Sending a character with anything else, or nothing, will result in Rape
+6. Send a character with the Katana
+After Completion
+1. A Medkit, and all of the Syringes can be found here
+
+Police Station [A3]
+1. Send a character with any weapon. This step requires a Combat check. Any weapon will result in 100% Success, no weapon will result in Rape
+2. Send a character with the Bolt Cutters
+3. Send a character with the Medkit
+4. Send a character with any weapon. This step requires a Combat check. Any weapon will result in 70% Success, no weapon will result in Rape
+5. Send a character with the Red Syringe. Sending a character with anything else, or nothing, will result in Rape
+After Completion
+1. The Radio can be found here
+2. The Pistol can be found here
+3. Clothes can be found here
+4. Armor can be found here
+
+Grocery Store [A4]
+1. Send a character with low Lust. Sending a character with Lust above 55 will result in Rape
+2. Send a character with the Katana. This step requires a Sneak check, with a success rate of 65%. Failing this Sneak check will engage Combat, which requires the Katana for Success. Sending a character with anything else, or nothing, AND failing the Sneak check will result in Rape
+3. Send a character to the Grocery Store with the Fishing Rod. This step requires a Sneak check, with a success rate of 65%. Failing this Sneak check will result in Rape.
+4. Send a character with any one of the following items, HOWEVER remember that the item you choose to use will be destroyed. You can obtain another one of any item destroyed this way. Dartboard, Backpack, Medkit, Dildo, Extinguisher, Bolt Cutter
+5. Send a character with a Ranged weapon. This step requires a Combat check. Ranged weapons will always Succeed, and Melee weapons will always Fail. Failure here simply prevents progress
+After Completion
+1. Food and Water can be found here
+
+District College [A5]
+1. Send a character with any weapon. This step requires a Sneak check, with a success rate of 65%. Failing this Sneak check will engage Combat. Any weapon will result in 100% Success, no weapon will result in Rape. Success in Combat will not result in progress, you must Succeed the Sneak check
+2. Send a character with the Medkit
+3. Send a character with any weapon. This step requires a Combat check. Any weapon will result in 100% Success, no weapon will result in Rape
+4. Send a character with the Backpack
+5. Send a character with any weapon. This step requires a Combat check. Any weapon will result in 100% Success, no weapon will result in Rape
+After Completion
+1. The Stereo can be found here
+
+Shopping Mall [A6]
+1. Send a character to the Shopping Mall, no item needed.
+2. Send a character with the Dartboard. This step requires a Competition check, with a success rate of 60%. As of now there is no way to increase your chance of succeeding a Competition check, just keep trying until you pass
+3. Send a character with any weapon. This step requires a Combat check. Any weapon will result in 100% Success, no weapon will result in Rape
+4. Send a character with the Newspaper
+5. Send a character with the Red Book. This will remove the Red Book from your inventory, but replace it with the Fishing Rod
+After Completion
+1. Clothes can be found here
+2. Food and Water can be found here (Less than at the Grocery Store)
+
+Military Base [A7]
+1. Send a character with the Dartboard
+2. Send a character with any weapon. This step requires a Sneak check, with a Success rate of 60%. Failing this Sneak check will engage Combat. Any weapon will result in 90% Success, no weapon will result in Rape. Succeeding either the Sneak check or the Combat check will result in progress
+3. Send a character with a Ranged weapon. This step requires a Combat check. Any Ranged weapon will result in 100% Success, and the Katana will result in 80% Success. Failing this check will result in no progress
+4. Send a character to the Military Base, no item needed. This step requires a Climb check with a Success rate of 60%. As of now there is no way to increase your chance of succeeding a Climb check, just keep trying until you pass. Failing this Climb check will result in Rape
+5. Send a character with any weapon. You can also send a character with the Bolt Cutters, or the Dildo. Using the Dildo here will destroy it, however.
+After Completion
+1. This Location is only used for Story progress
+
+Odd Cathedral [A8]
+1. Send a character to the Odd Cathedral, no item needed. This step requires a Sneak check, with a success rate of 50%. Failing this Sneak check will result in Rape.
+2. Send Juniper to the Odd Cathedral, no item needed. This step requires a Sneak check, with a success rate of 50%. Failing this Sneak check will result in Rape. You must Succeed this Sneak check AS JUNIPER to progress
+3. Send a character with a Ranged weapon. This step requires a Combat check. Any Ranged weapon will result in 100% Success, and the Katana will result in 80% Success. Failing this check will result in Rape
+4. Send Raven to the Odd Cathedral, no item needed.
+5. Send a character to the Odd Cathedral, no item needed. This step requires a Sneak check, with a success rate of 50%. Failing this Sneak check will result in Rape.
+6. Send Scarlet to the Odd Cathedral, no item needed. You can send Scarlet with the Katana for slightly altered text.
+
+Research Facility [A9]
+1. Send a character with the Map. Sending a character with anything else, or nothing will result in a Sneak check with a success rate of 55%, succeeding this check gives you a clue that you need the Map to progress. Failing the sneak check results in no progress
+2. Send a character with a Ranged weapon.
+3. Send a character with any weapon. This step requires a Combat check. Any weapon will result in 55% Success. Failing this check will result in Rape
+4. Send a character with the Pink Syringe.
+5. Send a character with the Bolt Cutters. [Unlocks Amber]
+After Completion
+1. This Location is only used for Story progress
+
+Infested Square [A10]
+The Infested Square functions differently from the other Expeditions, and is still in a somewhat experimental phase.
+To complete each phase of the Infested Square expedition you must send as many characters with the best weapons you can. For now, since characters can share items, the answer is to send as many characters as you have to the Square at once, each with the Rifle selected. If you don't have the Rifle, select the Pistol, if you don't have the Pistol, select the Katana.
+In the final version of the game, there will be more than 5 possible weapons to choose from, and characters will not be able to select the same item at one time, so the tactics will change at that point (Additionally, certain characters will be better with certain weapons, providing more options for advantages if you have a specific Character/Weapon combo).
+
+
+Endings [B0]
+
+Good Ending 1 [B1]
+1. Get Radio
+Complete the Police Station expedition to acquire the Radio
+2. First Call
+The first Night after finding the radio you get a call, no action required
+3. Go to Mall
+Complete the Mall expedition, then send someone there after
+4. Second Call
+The night after completing 3 you will get another call
+5. Get Medit, go to High School
+Get a Medkit item, complete the High School expedition, send someone to the Highschool with the Medkit
+5. Third Call
+Recieve another call the next night
+6. Get Green Syringe, go to Central Hospital
+Get a Green Syringe, complete the Central Hospital expedition, send someone to the Central Hospital with the Green Syringe
+7. Fourth Call
+Recieve another call the next night
+8. Have Food/Water, go to Police Station
+Make sure you have at least 5 cans of Food and 5 bottles of Water, send someone to the Police Station
+9. Fifth Call
+Recieve another call the next night
+10. Have Boards, go to the Grocery Store
+Complete the Grocery Store expedition, make sure you have at least 5 Boards, send someone to the Grocery Store
+11. Sixth Call
+Recieve another call the next night
+12. Get Rifle, go to the District College
+Complete the District College expedition, get a rifle, send someone to the District college with the Rifle
+13. Seventh Call
+Recieve another call the next night
+14. Get Blue Syringe, go to the Research Facility
+Complete the Research Facility expedition, get a Blue Syringe, send somone to the Research Facility with the Blue Syringe
+15. Eighth Call
+Recieve another call the next night
+16. Final Boss Fight
+Complete the Military Base Expedition. The last step contains a boss fight. Send as many members as you have, all with the Rifle if you have it, the Pistol if you don't, or the Katana if you don't have either
+17. Last Call
+Recieve the final call the next night
+18. Extraction
+Send someone to the Military Base. Characters who are not sent to the base during extraction will not be left behind. Everyone alive (who are not captured) will automatically be included in the ending.
+
+Secret Ending 1 [B2]
+1. Get Radio
+Complete the Police Station expedition to acquire the Radio
+2. Find the Biker prisoner
+Complete Odd Cathedral, step 5
+3. First Call
+The FBT will call at Noon, so make sure someone is around to recieve the call
+4. Rendezvous with Rockfowl
+Send a character to the Infested Square, no item needed.
+5. Reclaim Parking Garage/ Shopping District
+Send as many characters as you have available to the Infested Square with the best weapons you can (Rifle>Pistol>Katana). Characters with higher Health and Armor will be more effective, so max out those stats for everyone if possible
+6. Second Call
+The FBT will call at Noon, so make sure someone is around to recieve the call
+7. Reclaim Hospital District
+Send as many characters as you have available to the Infested Square with the best weapons you can (Rifle>Pistol>Katana). Characters with higher Health and Armor will be more effective, so max out those stats for everyone if possible
+8. Third Call
+The FBT will call at Noon, so make sure someone is around to recieve the call
+9. Reclaim Shopping District
+Send as many characters as you have available to the Infested Square with the best weapons you can (Rifle>Pistol>Katana). Characters with higher Health and Armor will be more effective, so max out those stats for everyone if possible
+10. Fourth Call
+The FBT will call at Noon, so make sure someone is around to recieve the call
+11. Reclaim Military District
+Send as many characters as you have available to the Infested Square with the best weapons you can (Rifle>Pistol>Katana). Characters with higher Health and Armor will be more effective, so max out those stats for everyone if possible
+12. Fifth Call
+The FBT will call at Noon, so make sure someone is around to recieve the call
+13. Moving In
+Send someone to the Infested Square (Now the Purified Square). Characters who are not sent to the square during extraction will not be left behind. Everyone alive (who are not captured) will automatically be included in the ending.
+
+
+Item Info [C0]
+
+Backpack
+Found: Explore (Library)
+Used: District College, Grocery Store
+Notes:
+
+Bandages
+Found: Only in the code, currently
+Used: Cannot be used, or obtained
+Notes: Bandages are a planned item which currently only exist in the game's code. Bandages will open a "Mend Self" option (different from "Heal Self".) Mend Self will restore a random amount of Health, between 10-20%. Having Amber at the Cabin during use (as long as she is not Exploring, or on an Expedition) will increase the amount by a flat 5% on top of the random value rolled, effectively changing the range to 15-25%.
+
+Bolt Cutter
+Found: Explore (Hardware)
+Used: Grocery Store, Military Base, Police Station
+Notes:
+
+Book, Blue (Memories Album)
+Found: Obtain Any Polaroid
+Used: None
+Notes: This book is only used to view past Polaroids. Click on the Blue Book on the bookshelf to open the Gallery for the current file. The Blue Book will only show you Polaroids obtained in the current game file, viewing the Gallery on the Title Screen will display all Polaroids ever unlocked (excluding Polaroids unlocked with cheats)
+
+Book, Green (Local Flora)
+Found: Explore (Grocery, Library)
+Used: High School
+Notes: Unlocks the "Read" command
+
+Book, Red (Hentai Manga)
+Found: Explore (Strip Mall)
+Used: Shopping Mall
+Notes: Unlocks the "Read" command. It's a copy of "Mama Tama"
+
+Dartboard
+Found: Explore (Library)
+Used: Grocery Store, Military Base, Shopping Mall
+Notes: Using the Dartboard with two or more characters at the same time will increase the Relationships of every character who took the "Play Darts" action
+
+Dildo
+Found: Explore (Strip Mall)
+Used: Central Hospital, Grocery Store, High School, Military Base
+Notes: Having the Dildo in your inventory will increase the Lust recovered from taking the "Masturbate" action
+
+Fingerless Gloves
+Found: Only in the code, currently
+Used: Cannot be used, or obtained
+Notes: A planned item which currently exists only in code. This item will increase the success of Climb checks.
+
+Fire Extinguisher
+Found: Explore (Strip Mall)
+Used: Central Hospital, Grocery Store
+Notes:
+
+Fishing Rod
+Found: Shopping Mall
+Used: Grocery Store
+Notes: The Fishing Rod unlocks the "Go Fishing" command. Raw Fish must be Cooked before they can be eaten. Having Raw Fish opens the "Cook Fish" command, so it takes two periods to obtain any useful food from Fishing.
+
+Katana
+Found: Explore (Prepper's House)
+Used: Everywhere
+Notes: The Katana is classed as a Melee Weapon (currently the only one in the game.) Some Combat events require a Melee weapon, and some have different results for Melee or Ranged weapons. During a "Boss Fight" type event (The final boss of the Good Ending, or the Infested Square events) the Katana adds 5% to a character's success rate.
+
+Map
+Found: High School
+Used: Research Facility
+Notes: Having the Map in your inventory will allow you to view the Expedition Map. In the Expedition Menu a map button will appear in the corner. This is currently for information purposes only.
+
+Medkit
+Found: Explore (Clinic), Complete Expedition (Central Hospital)
+Used: District College, Grocery Store, High School, Police Station
+Notes: This can be used to restore a character's Health to full using the "Heal Self" command. However, if a character is Infected and you have a Green Syringe, the Syringe will be used first.
+
+Newspaper
+Found: Explore (Strip Mall)
+Used: Shopping Mall
+Notes: Unlocks the "Read" command
+
+Pistol
+Found: Explore (Prepper's House), Police Station
+Used: Everywhere
+Notes: The Pistol is classed as a Ranged Weapon. Some Combat events require a Ranged weapon, and some have different results for Melee or Ranged weapons. During a "Boss Fight" type event (The final boss of the Good Ending, or the Infested Square events) the Pistol adds 10% to a character's success rate.
+
+Radio
+Found: Police Station
+Used: Good Ending 1, Secret Ending 1
+Notes: The Radio will allow prompts for the 2 story questlines
+
+Rifle
+Found: Explore (Prepper's House)
+Used: Everywhere
+Notes: The Rifle is classed as a Ranged Weapon. Some Combat events require a Ranged weapon, and some have different results for Melee or Ranged weapons. During a "Boss Fight" type event (The final boss of the Good Ending, or the Infested Square events) the Rifle adds 15% to a character's success rate.
+
+Sneakers
+Found: Only in the code, currently
+Used: Cannot be used, or obtained
+Notes: A planned item which currently exists only in code. This item will increase the success of Sneak checks.
+
+Square Key
+Found: Odd Cathedral
+Used: Infested Square
+Notes: A key to the military quarantine zone surrounding the Infested Square. The bow of the key has been crudely shaped into an ominous screaming skull.
+
+Stereo
+Found: District College
+Used:
+Notes: Restores 2% Entertainment for every character who is home (Didn't spend their turn Exploring or on Expedition)
+
+Syringe, Blue (Experimental Cure)
+Found: Explore (Clinic), Central Hospital
+Used: Central Hospital, High School, Research Facility
+Notes: An experimental vaccine, developed by an unknown corporation to combat accelerated or evolved strains of the zombie virus. This item cannot be used to cure characters of "Infected" status at this point, in future versions it may be made available as a cure, but with side effects.
+
+Syringe, Green (Zombie Vaccine)
+Found: Explore (Clinic), Central Hospital
+Used: Central Hospital
+Notes: A basic zombification vaccine approved by the NFDO (National Food and Drug Organization). Seems effective against most strains of the virus. This can be used to cure your characters of "Infected" status (presently invsibile, except from clues in the Journal entries.) When using the "Heal Self" command, if the character is infected, this item will be used first but no Health will be restored.
+
+Syringe, Pink (Aphrodisiac)
+Found: Explore (Clinic), Central Hospital
+Used: Research Facility
+Notes:
+
+Syringe, Red (Anabolic Steroid)
+Found: Explore (Clinic), Central Hospital
+Used: Police Station
+Notes:

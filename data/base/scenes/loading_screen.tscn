@@ -1,0 +1,40 @@
+[gd_scene load_steps=2 format=3 uid="uid://e83jlc0u7qeu"]
+
+[ext_resource type="Texture2D" uid="uid://cqswy2tpbw8qr" path="res://data/base/textures/loading_screen/car_wreck.png" id="1_eafcj"]
+
+[node name="loading_screen" type="CanvasLayer"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_eafcj")
+expand_mode = 3
+stretch_mode = 4
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 1050
+theme_override_constants/margin_top = 550
+
+[node name="CenterContainer" type="CenterContainer" parent="CenterContainer/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/MarginContainer/CenterContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="ColorRect" type="ColorRect" parent="CenterContainer/MarginContainer/CenterContainer/VBoxContainer"]
+layout_mode = 2
+color = Color(0, 0, 0, 1)

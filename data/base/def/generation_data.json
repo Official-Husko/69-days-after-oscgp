@@ -1,0 +1,39 @@
+{
+    "starting_water": 0,
+    "starting_food": 0,
+    "starting_wood": 0,
+    "starting_time": "Morning",
+    "unlock_polaroids": true,
+    "characters": {
+        "scarlet": true,
+        "raven": true,
+        "juniper": true,
+        "amber": true,
+        "snow": true
+    },
+    "specific_items": {
+        "dartboard": true,
+        "katana": true,
+        "rifle": true,
+        "pistol": true,
+        "radio": true,
+        "stereo_system": true,
+        "key": true,
+        "backpack": true,
+        "boltcutters": true,
+        "book_blue": true,
+        "book_red": true,
+        "book_green": true,
+        "cooked_fish": 0,
+        "fireextinguisher": true,
+        "map": true,
+        "medkit": true,
+        "rifle_rack": true,
+        "sewing_kit": true,
+        "syringe_blue": true,
+        "syringe_red": true,
+        "syringe_green": true,
+        "syringe_pink": true,
+        "dildo": true
+    }
+}
