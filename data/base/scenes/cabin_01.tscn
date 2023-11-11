@@ -1,0 +1,258 @@
+[gd_scene load_steps=45 format=3 uid="uid://odpu7rbo86an"]
+
+[ext_resource type="Texture2D" uid="uid://c2bv8hhx1vots" path="res://data/base/textures/environment/window_evening.png" id="1_5hpfw"]
+[ext_resource type="Texture2D" uid="uid://nqnyaot8owsd" path="res://data/base/textures/building/floor.png" id="2_ux2yi"]
+[ext_resource type="Texture2D" uid="uid://djn3x3wl62m8q" path="res://data/base/textures/building/walls.png" id="3_0n1qf"]
+[ext_resource type="Texture2D" uid="uid://c0dk6e21t3bg" path="res://data/base/textures/furniture/rug.png" id="4_p4gyp"]
+[ext_resource type="Texture2D" uid="uid://dcmdbtk1rlt3h" path="res://data/base/textures/furniture/wardrobe.png" id="5_856ru"]
+[ext_resource type="Texture2D" uid="uid://cfpii5hw33a0n" path="res://data/base/textures/building/door0.png" id="6_tk4sg"]
+[ext_resource type="Texture2D" uid="uid://yq1mu6mru3i6" path="res://data/base/textures/furniture/couch.png" id="7_arbgn"]
+[ext_resource type="Texture2D" uid="uid://dhy5muil6m60s" path="res://data/base/textures/characters/scarlet/scarlet_clothes1.png" id="8_hg1q3"]
+[ext_resource type="Script" path="res://data/base/scripts/HealthComponent.gd" id="9_d71xj"]
+[ext_resource type="Script" path="res://data/base/scripts/ClothingComponent.gd" id="10_0rbo3"]
+[ext_resource type="Texture2D" uid="uid://cgrr6fsi72lw4" path="res://data/base/textures/characters/scarlet/scarlet_cum5.png" id="11_6u6tc"]
+[ext_resource type="Texture2D" uid="uid://bpn7bpjhw1n8v" path="res://data/base/textures/characters/raven/raven_clothes1.png" id="12_2l55p"]
+[ext_resource type="Texture2D" uid="uid://b63ntgaclxpiq" path="res://data/base/textures/characters/raven/raven_cum5.png" id="13_e14d1"]
+[ext_resource type="Texture2D" uid="uid://dfshwruhdp7pp" path="res://data/base/textures/characters/juniper/juniper_clothes.png" id="14_plall"]
+[ext_resource type="Texture2D" uid="uid://cfa30wivwg64g" path="res://data/base/textures/characters/juniper/juniper_cum5.png" id="15_hf4yf"]
+[ext_resource type="Texture2D" uid="uid://0uk2atiji0uv" path="res://data/base/textures/furniture/counter.png" id="16_l24ag"]
+[ext_resource type="Texture2D" uid="uid://cvn8s7kgy4ehe" path="res://data/base/textures/items/boltcutters.png" id="17_fcj2d"]
+[ext_resource type="Texture2D" uid="uid://cw423kbo3vv1n" path="res://data/base/textures/items/fireextinguisher.png" id="18_j8oy2"]
+[ext_resource type="Texture2D" uid="uid://cl3y68skpnl4w" path="res://data/base/textures/items/backpack.png" id="19_2t84u"]
+[ext_resource type="Texture2D" uid="uid://b7cygbiv16d36" path="res://data/base/textures/furniture/coffeeTable.png" id="20_u7cjg"]
+[ext_resource type="Texture2D" uid="uid://dejtiqkm8eoui" path="res://data/base/textures/ui/scarlet_btn.png" id="21_gpr40"]
+[ext_resource type="Texture2D" uid="uid://ts8wdtg46ebl" path="res://data/base/textures/items/dildo.png" id="22_roxg2"]
+[ext_resource type="Texture2D" uid="uid://dnus0bgj8ccbd" path="res://data/base/textures/furniture/sink.png" id="23_ummpf"]
+[ext_resource type="Texture2D" uid="uid://w3q57eor5pjn" path="res://data/base/textures/items/rifle_rack.png" id="24_6qorq"]
+[ext_resource type="Texture2D" uid="uid://dd1d8ywhud3iy" path="res://data/base/textures/items/pistol.png" id="25_iw6bx"]
+[ext_resource type="Texture2D" uid="uid://gqh1i3p5l3r5" path="res://data/base/textures/items/medkit.png" id="26_l6wd0"]
+[ext_resource type="Texture2D" uid="uid://lmtmhnpcmu3f" path="res://data/base/textures/items/newspaper.png" id="27_351wk"]
+[ext_resource type="Texture2D" uid="uid://baq8spcu10qg3" path="res://data/base/textures/items/dartboard.png" id="28_8nqjw"]
+[ext_resource type="Texture2D" uid="uid://b3nl85v4m43pw" path="res://data/base/textures/ui/raven_btn.png" id="29_l61wx"]
+[ext_resource type="Texture2D" uid="uid://d3hu8a4bfhftx" path="res://data/base/textures/ui/juniper_btn.png" id="30_7xt8t"]
+[ext_resource type="Texture2D" uid="uid://dbgvggmmxlp4c" path="res://data/base/textures/detail/plank2.png" id="31_cpfyk"]
+[ext_resource type="Texture2D" uid="uid://bk0yhxlrm6b46" path="res://data/base/textures/clock/clock_morning.png" id="32_qnydl"]
+[ext_resource type="Script" path="res://data/base/scripts/Clock.gd" id="33_oh23d"]
+[ext_resource type="Texture2D" uid="uid://batknrqigbx1f" path="res://data/base/textures/items/syringe_blue.png" id="34_jh8p7"]
+[ext_resource type="Texture2D" uid="uid://dcgmx7sd3mxo7" path="res://data/base/textures/items/syringe_green.png" id="35_vg17t"]
+[ext_resource type="Texture2D" uid="uid://bdpidh0vkc7bg" path="res://data/base/textures/items/syringe_red.png" id="36_xel84"]
+[ext_resource type="Texture2D" uid="uid://crgcxqsj8pgke" path="res://data/base/textures/items/syringe_pink.png" id="37_la56m"]
+[ext_resource type="Texture2D" uid="uid://bo6rsugo2aj0p" path="res://data/base/textures/items/book_green.png" id="38_wwlnw"]
+[ext_resource type="Texture2D" uid="uid://bw4k26qfpdx3" path="res://data/base/textures/items/book_red.png" id="39_i7gvq"]
+[ext_resource type="Texture2D" uid="uid://c7kbv1f7t6r25" path="res://data/base/textures/items/book_blue.png" id="40_bl5om"]
+[ext_resource type="Texture2D" uid="uid://dn063k55exqrv" path="res://data/base/textures/food/foodStore0.png" id="41_m0frf"]
+[ext_resource type="Texture2D" uid="uid://sewp2xcwk5q0" path="res://data/base/textures/water/waterStore0.png" id="42_qerna"]
+[ext_resource type="Texture2D" uid="uid://scoijuuxnvie" path="res://data/base/textures/window/window0.png" id="43_wgpgn"]
+[ext_resource type="Texture2D" uid="uid://c7vp6w4ws6c7" path="res://data/base/textures/furniture/stereoSystem.png" id="44_ywa7v"]
+
+[node name="cabin_01" type="Node2D"]
+position = Vector2(0, 8)
+
+[node name="WindowBackground" type="Sprite2D" parent="."]
+position = Vector2(760, 248)
+texture = ExtResource("1_5hpfw")
+
+[node name="WindowBackground2" type="Sprite2D" parent="."]
+position = Vector2(136, 357.726)
+scale = Vector2(1.35714, 2.6337)
+texture = ExtResource("1_5hpfw")
+
+[node name="Floor" type="Sprite2D" parent="."]
+position = Vector2(576, 512)
+texture = ExtResource("2_ux2yi")
+
+[node name="Walls" type="Sprite2D" parent="."]
+position = Vector2(576, 280)
+texture = ExtResource("3_0n1qf")
+
+[node name="Rug" type="Sprite2D" parent="."]
+position = Vector2(573.125, 544)
+scale = Vector2(1.10412, 1)
+texture = ExtResource("4_p4gyp")
+
+[node name="Shelf" type="Sprite2D" parent="."]
+position = Vector2(400, 280)
+texture = ExtResource("5_856ru")
+
+[node name="Door" type="Sprite2D" parent="."]
+position = Vector2(624, 288)
+texture = ExtResource("6_tk4sg")
+
+[node name="Couch" type="Sprite2D" parent="."]
+position = Vector2(576, 424)
+texture = ExtResource("7_arbgn")
+
+[node name="Characters" type="Node2D" parent="."]
+
+[node name="Scarlet" type="Sprite2D" parent="Characters"]
+position = Vector2(616, 408)
+texture = ExtResource("8_hg1q3")
+
+[node name="HealthComponent" type="Node2D" parent="Characters/Scarlet"]
+script = ExtResource("9_d71xj")
+
+[node name="ClothingComponent" type="Node2D" parent="Characters/Scarlet"]
+script = ExtResource("10_0rbo3")
+
+[node name="ScarletCum" type="Sprite2D" parent="Characters/Scarlet"]
+visible = false
+texture = ExtResource("11_6u6tc")
+
+[node name="Raven" type="Sprite2D" parent="Characters"]
+position = Vector2(200.75, 453.31)
+scale = Vector2(1.07759, 1.07759)
+texture = ExtResource("12_2l55p")
+
+[node name="RavenCum" type="Sprite2D" parent="Characters/Raven"]
+visible = false
+position = Vector2(0.695999, 0.0640259)
+scale = Vector2(0.975993, 0.975993)
+texture = ExtResource("13_e14d1")
+
+[node name="Juniper" type="Sprite2D" parent="Characters"]
+position = Vector2(776, 512)
+texture = ExtResource("14_plall")
+flip_h = true
+
+[node name="JuniperCum" type="Sprite2D" parent="Characters/Juniper"]
+visible = false
+texture = ExtResource("15_hf4yf")
+flip_h = true
+
+[node name="Counter" type="Sprite2D" parent="."]
+position = Vector2(977.75, 536.75)
+scale = Vector2(1.01613, 1.00732)
+texture = ExtResource("16_l24ag")
+
+[node name="Boltcutters" type="Sprite2D" parent="."]
+position = Vector2(928, 544)
+scale = Vector2(0.766667, 0.766667)
+texture = ExtResource("17_fcj2d")
+
+[node name="Fireextinguisher" type="Sprite2D" parent="."]
+position = Vector2(944, 576)
+texture = ExtResource("18_j8oy2")
+flip_h = true
+
+[node name="Backpack" type="Sprite2D" parent="."]
+position = Vector2(720, 376)
+texture = ExtResource("19_2t84u")
+
+[node name="CoffeeTable" type="Sprite2D" parent="."]
+position = Vector2(576, 536)
+texture = ExtResource("20_u7cjg")
+
+[node name="ScarletBook" type="Sprite2D" parent="."]
+position = Vector2(680, 504)
+texture = ExtResource("21_gpr40")
+
+[node name="Dildo" type="Sprite2D" parent="."]
+position = Vector2(416, 472)
+texture = ExtResource("22_roxg2")
+
+[node name="Sink" type="Sprite2D" parent="."]
+position = Vector2(1024.04, 547.75)
+scale = Vector2(1.18085, 1.18085)
+texture = ExtResource("23_ummpf")
+
+[node name="RifleRack" type="Sprite2D" parent="."]
+position = Vector2(392, 120)
+texture = ExtResource("24_6qorq")
+
+[node name="Pistol" type="Sprite2D" parent="."]
+position = Vector2(440, 160)
+scale = Vector2(0.365942, 0.365942)
+texture = ExtResource("25_iw6bx")
+flip_h = true
+
+[node name="Medkit" type="Sprite2D" parent="."]
+position = Vector2(364.567, 146.875)
+scale = Vector2(0.521845, 0.521845)
+texture = ExtResource("26_l6wd0")
+
+[node name="Newspaper" type="Sprite2D" parent="."]
+position = Vector2(640, 512)
+texture = ExtResource("27_351wk")
+
+[node name="Dartboard" type="Sprite2D" parent="."]
+position = Vector2(232, 312)
+skew = 0.0296706
+texture = ExtResource("28_8nqjw")
+
+[node name="RavenBook" type="Sprite2D" parent="."]
+position = Vector2(256, 560)
+texture = ExtResource("29_l61wx")
+flip_h = true
+
+[node name="JuniperBook" type="Sprite2D" parent="."]
+position = Vector2(784, 600)
+texture = ExtResource("30_7xt8t")
+flip_h = true
+
+[node name="Plank2" type="Sprite2D" parent="."]
+position = Vector2(792, 392)
+rotation = -0.0174533
+skew = -0.389208
+texture = ExtResource("31_cpfyk")
+
+[node name="Plank3" type="Sprite2D" parent="."]
+position = Vector2(792, 384)
+rotation = 0.0349066
+skew = -0.389208
+texture = ExtResource("31_cpfyk")
+flip_h = true
+
+[node name="Plank4" type="Sprite2D" parent="."]
+position = Vector2(792, 376)
+rotation = -0.0349066
+skew = -0.389208
+texture = ExtResource("31_cpfyk")
+
+[node name="Clock" type="Sprite2D" parent="."]
+position = Vector2(624, 152)
+texture = ExtResource("32_qnydl")
+script = ExtResource("33_oh23d")
+
+[node name="SyringeBlue" type="Sprite2D" parent="."]
+position = Vector2(371, 235)
+texture = ExtResource("34_jh8p7")
+
+[node name="SyringeGreen" type="Sprite2D" parent="."]
+position = Vector2(365, 240)
+texture = ExtResource("35_vg17t")
+
+[node name="SyringeRed" type="Sprite2D" parent="."]
+position = Vector2(362, 245)
+texture = ExtResource("36_xel84")
+
+[node name="SyringePink" type="Sprite2D" parent="."]
+position = Vector2(358, 250)
+texture = ExtResource("37_la56m")
+
+[node name="BookGreen" type="Sprite2D" parent="."]
+position = Vector2(452, 238)
+texture = ExtResource("38_wwlnw")
+
+[node name="BookRed" type="Sprite2D" parent="."]
+position = Vector2(439, 238)
+texture = ExtResource("39_i7gvq")
+
+[node name="BookBlue" type="Sprite2D" parent="."]
+position = Vector2(426, 238)
+texture = ExtResource("40_bl5om")
+
+[node name="FoodStore" type="Sprite2D" parent="."]
+position = Vector2(373, 297)
+texture = ExtResource("41_m0frf")
+
+[node name="WaterStore" type="Sprite2D" parent="."]
+position = Vector2(441, 297)
+texture = ExtResource("42_qerna")
+
+[node name="WindowBoarded" type="Sprite2D" parent="."]
+position = Vector2(756, 250)
+texture = ExtResource("43_wgpgn")
+
+[node name="StereoSystem" type="Sprite2D" parent="."]
+position = Vector2(127, 541)
+texture = ExtResource("44_ywa7v")
