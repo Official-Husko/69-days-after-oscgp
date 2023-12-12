@@ -1,4 +1,4 @@
-[gd_scene load_steps=45 format=3 uid="uid://odpu7rbo86an"]
+[gd_scene load_steps=40 format=3 uid="uid://odpu7rbo86an"]
 
 [ext_resource type="Texture2D" uid="uid://c2bv8hhx1vots" path="res://data/base/textures/environment/window_evening.png" id="1_5hpfw"]
 [ext_resource type="Texture2D" uid="uid://nqnyaot8owsd" path="res://data/base/textures/building/floor.png" id="2_ux2yi"]
@@ -7,14 +7,9 @@
 [ext_resource type="Texture2D" uid="uid://dcmdbtk1rlt3h" path="res://data/base/textures/furniture/wardrobe.png" id="5_856ru"]
 [ext_resource type="Texture2D" uid="uid://cfpii5hw33a0n" path="res://data/base/textures/building/door0.png" id="6_tk4sg"]
 [ext_resource type="Texture2D" uid="uid://yq1mu6mru3i6" path="res://data/base/textures/furniture/couch.png" id="7_arbgn"]
-[ext_resource type="Texture2D" uid="uid://dhy5muil6m60s" path="res://data/base/textures/characters/scarlet/scarlet_clothes1.png" id="8_hg1q3"]
-[ext_resource type="Script" path="res://data/base/scripts/HealthComponent.gd" id="9_d71xj"]
-[ext_resource type="Script" path="res://data/base/scripts/ClothingComponent.gd" id="10_0rbo3"]
-[ext_resource type="Texture2D" uid="uid://cgrr6fsi72lw4" path="res://data/base/textures/characters/scarlet/scarlet_cum5.png" id="11_6u6tc"]
-[ext_resource type="Texture2D" uid="uid://bpn7bpjhw1n8v" path="res://data/base/textures/characters/raven/raven_clothes1.png" id="12_2l55p"]
-[ext_resource type="Texture2D" uid="uid://b63ntgaclxpiq" path="res://data/base/textures/characters/raven/raven_cum5.png" id="13_e14d1"]
-[ext_resource type="Texture2D" uid="uid://dfshwruhdp7pp" path="res://data/base/textures/characters/juniper/juniper_clothes.png" id="14_plall"]
-[ext_resource type="Texture2D" uid="uid://cfa30wivwg64g" path="res://data/base/textures/characters/juniper/juniper_cum5.png" id="15_hf4yf"]
+[ext_resource type="PackedScene" uid="uid://c0uyeaou2xc3y" path="res://data/base/scenes/characters/scarlet.tscn" id="8_ox8y5"]
+[ext_resource type="PackedScene" uid="uid://bxloqxv4ih31j" path="res://data/base/scenes/characters/raven.tscn" id="9_xj0n0"]
+[ext_resource type="PackedScene" uid="uid://ixi5bftrgtxj" path="res://data/base/scenes/characters/juniper.tscn" id="10_y5bci"]
 [ext_resource type="Texture2D" uid="uid://0uk2atiji0uv" path="res://data/base/textures/furniture/counter.png" id="16_l24ag"]
 [ext_resource type="Texture2D" uid="uid://cvn8s7kgy4ehe" path="res://data/base/textures/items/boltcutters.png" id="17_fcj2d"]
 [ext_resource type="Texture2D" uid="uid://cw423kbo3vv1n" path="res://data/base/textures/items/fireextinguisher.png" id="18_j8oy2"]
@@ -84,40 +79,16 @@ texture = ExtResource("7_arbgn")
 
 [node name="Characters" type="Node2D" parent="."]
 
-[node name="Scarlet" type="Sprite2D" parent="Characters"]
+[node name="Scarlet" parent="Characters" instance=ExtResource("8_ox8y5")]
 position = Vector2(616, 408)
-texture = ExtResource("8_hg1q3")
 
-[node name="HealthComponent" type="Node2D" parent="Characters/Scarlet"]
-script = ExtResource("9_d71xj")
-
-[node name="ClothingComponent" type="Node2D" parent="Characters/Scarlet"]
-script = ExtResource("10_0rbo3")
-
-[node name="ScarletCum" type="Sprite2D" parent="Characters/Scarlet"]
+[node name="Raven" parent="Characters" instance=ExtResource("9_xj0n0")]
 visible = false
-texture = ExtResource("11_6u6tc")
-
-[node name="Raven" type="Sprite2D" parent="Characters"]
 position = Vector2(200.75, 453.31)
-scale = Vector2(1.07759, 1.07759)
-texture = ExtResource("12_2l55p")
 
-[node name="RavenCum" type="Sprite2D" parent="Characters/Raven"]
+[node name="Juniper" parent="Characters" instance=ExtResource("10_y5bci")]
 visible = false
-position = Vector2(0.695999, 0.0640259)
-scale = Vector2(0.975993, 0.975993)
-texture = ExtResource("13_e14d1")
-
-[node name="Juniper" type="Sprite2D" parent="Characters"]
 position = Vector2(776, 512)
-texture = ExtResource("14_plall")
-flip_h = true
-
-[node name="JuniperCum" type="Sprite2D" parent="Characters/Juniper"]
-visible = false
-texture = ExtResource("15_hf4yf")
-flip_h = true
 
 [node name="Counter" type="Sprite2D" parent="."]
 position = Vector2(977.75, 536.75)

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://58v5nao6gidy"
-path="res://.godot/imported/scarlet_cum4.png-cfca0234aec75047a1a3d2aa981234f6.ctex"
+uid="uid://f38eqqwxrf8c"
+path="res://.godot/imported/scarlet_armor.png-005759ce94552b19d60a8b85bfcee676.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/base/textures/characters/scarlet/scarlet_cum4.png"
-dest_files=["res://.godot/imported/scarlet_cum4.png-cfca0234aec75047a1a3d2aa981234f6.ctex"]
+source_file="res://data/base/textures/characters/scarlet/armor/scarlet_armor.png"
+dest_files=["res://.godot/imported/scarlet_armor.png-005759ce94552b19d60a8b85bfcee676.ctex"]
 
 [params]
 

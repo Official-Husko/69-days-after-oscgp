@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cgrr6fsi72lw4"
-path="res://.godot/imported/scarlet_cum5.png-f1263faf7fdc80d4a7e669dfb6bdd4f5.ctex"
+uid="uid://58v5nao6gidy"
+path="res://.godot/imported/scarlet_cum4.png-c59890a0952d0f25dbffb6488282c1ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/base/textures/characters/scarlet/scarlet_cum5.png"
-dest_files=["res://.godot/imported/scarlet_cum5.png-f1263faf7fdc80d4a7e669dfb6bdd4f5.ctex"]
+source_file="res://data/base/textures/characters/scarlet/cum/scarlet_cum4.png"
+dest_files=["res://.godot/imported/scarlet_cum4.png-c59890a0952d0f25dbffb6488282c1ac.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dp5vpisw18t5q"
-path="res://.godot/imported/scarlet_cum1.png-6982f4ffc9b9a24d17895a1ebc4a564e.ctex"
+path="res://.godot/imported/scarlet_cum1.png-1733b84ed3e95f9a7346852c09cba6ef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/base/textures/characters/scarlet/scarlet_cum1.png"
-dest_files=["res://.godot/imported/scarlet_cum1.png-6982f4ffc9b9a24d17895a1ebc4a564e.ctex"]
+source_file="res://data/base/textures/characters/scarlet/cum/scarlet_cum1.png"
+dest_files=["res://.godot/imported/scarlet_cum1.png-1733b84ed3e95f9a7346852c09cba6ef.ctex"]
 
 [params]
 

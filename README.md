@@ -2,7 +2,7 @@
 
 #### 69 Days After Open Source Community Godot Port
 
-The Goal of this project is to open source the game ***69 Days After*** in a more appropriate engine for 2D games and with the ability to be modded and modified for ones needs. Sadly the official product is hidden behind a paywall and the cheats are locked behind even more money. I don't believe in hiding cheats behind a paywall.
+The goal of this project is to open-source the game ***69 Days After*** in a more appropriate engine for 2D games with the ability to be modded and modified for one's needs. Sadly the official product has cheats that are locked behind a paywall. I don't believe in hiding cheats behind a paywall.
 <br />
 
 <details>
@@ -15,7 +15,7 @@ The Goal of this project is to open source the game ***69 Days After*** in a mor
 
 <br />
 
-***This Port is in no way complete or even remotely at the same playable state as the official sold copy. I never made a game in godot nor have i worked in it before.***
+***This Port is in no way complete or even remotely in the same playable state as the official sold copy. I never made a game in Godot nor have I worked in it before.***
 
 <br />
 
@@ -32,7 +32,7 @@ Tools Used:
 
 ### Final Notes
 
-A big thank you to the awesome community at [F95](https://f95zone.to/)! Without them this project would not have been possible. The game can be found here [Game Page](https://f95zone.to/threads/69-days-after-v0-20-patreon-noxious-games.32013/)
+A big thank you to the awesome community at [F95](https://f95zone.to/)! Without them, this project would not have been possible. The game can be found here [Game Page](https://f95zone.to/threads/69-days-after-v0-20-patreon-noxious-games.32013/)
 
 <br />
 <br />

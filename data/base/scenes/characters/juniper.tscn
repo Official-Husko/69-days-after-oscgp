@@ -1,0 +1,23 @@
+[gd_scene load_steps=5 format=3 uid="uid://ixi5bftrgtxj"]
+
+[ext_resource type="Texture2D" uid="uid://dfshwruhdp7pp" path="res://data/base/textures/characters/juniper/juniper_clothes.png" id="1_wj41l"]
+[ext_resource type="Texture2D" uid="uid://wgleu8vpd8nw" path="res://data/base/textures/characters/juniper/juniper_cum1.png" id="2_n64nw"]
+[ext_resource type="Script" path="res://data/base/scripts/HealthComponent.gd" id="3_u8tc6"]
+[ext_resource type="Script" path="res://data/base/scripts/ClothingComponent.gd" id="4_jxi4c"]
+
+[node name="Juniper" type="Node2D"]
+
+[node name="Texture" type="Sprite2D" parent="."]
+texture = ExtResource("1_wj41l")
+flip_h = true
+
+[node name="Cum" type="Sprite2D" parent="."]
+visible = false
+texture = ExtResource("2_n64nw")
+flip_h = true
+
+[node name="HealthComponent" type="Node2D" parent="."]
+script = ExtResource("3_u8tc6")
+
+[node name="ClothingComponent" type="Node2D" parent="."]
+script = ExtResource("4_jxi4c")

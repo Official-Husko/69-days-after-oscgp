@@ -1,0 +1,21 @@
+[gd_scene load_steps=5 format=3 uid="uid://bxloqxv4ih31j"]
+
+[ext_resource type="Texture2D" uid="uid://bc1ij6wfp4ldm" path="res://data/base/textures/characters/raven/raven_clothes.png" id="1_o13y8"]
+[ext_resource type="Texture2D" uid="uid://tdy8tt7kabit" path="res://data/base/textures/characters/raven/raven_cum1.png" id="2_6pt4h"]
+[ext_resource type="Script" path="res://data/base/scripts/HealthComponent.gd" id="2_g7j4n"]
+[ext_resource type="Script" path="res://data/base/scripts/ClothingComponent.gd" id="3_nhj18"]
+
+[node name="Raven" type="Node2D"]
+
+[node name="Texture" type="Sprite2D" parent="."]
+texture = ExtResource("1_o13y8")
+
+[node name="Cum" type="Sprite2D" parent="."]
+visible = false
+texture = ExtResource("2_6pt4h")
+
+[node name="HealthComponent" type="Node2D" parent="."]
+script = ExtResource("2_g7j4n")
+
+[node name="ClothingComponent" type="Node2D" parent="."]
+script = ExtResource("3_nhj18")

@@ -7,15 +7,20 @@ func _input(event):
 
 			# Access the Characters node within the cabin_01
 			var characters_node = get_parent().get_node("Characters")
+
+			for child in characters_node.get_children():
+				print(child.name)
 			
 			# Iterate through the children of the Characters node
 			for child in characters_node.get_children():
-				if child is Sprite2D:  # Adjust this condition based on the actual type of your character nodes
+				if child is Node2D:  # Adjust this condition based on the actual type of your character nodes
 					# Check if HealthComponent and ClothingComponent exist for each character
-					if child.has_node("HealthComponent"):
+					if child.has_node("HealthComponent") and child.name.to_lower() == "scarlet2":
+						print("Found HealthComponent on " + child.name + "!")
 						var health_component = child.get_node("HealthComponent")
 						health_component.damage(25)
 					
-					if child.has_node("ClothingComponent"):
+					if child.has_node("ClothingComponent") and child.name.to_lower() == "scarlet":
+						print("Found ClothingComponent on " + child.name + "!")
 						var clothing_component = child.get_node("ClothingComponent")
-						clothing_component.damage_clothing(25)
+						clothing_component.damage_clothing(5)

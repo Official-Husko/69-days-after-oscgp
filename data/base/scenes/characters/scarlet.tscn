@@ -1,13 +1,18 @@
-[gd_scene load_steps=3 format=3 uid="uid://c0uyeaou2xc3y"]
+[gd_scene load_steps=5 format=3 uid="uid://c0uyeaou2xc3y"]
 
+[ext_resource type="Texture2D" uid="uid://dhy5muil6m60s" path="res://data/base/textures/characters/scarlet/scarlet_clothes1.png" id="1_5fqsg"]
 [ext_resource type="Script" path="res://data/base/scripts/HealthComponent.gd" id="1_5myrr"]
 [ext_resource type="Script" path="res://data/base/scripts/ClothingComponent.gd" id="2_8xl0k"]
+[ext_resource type="Texture2D" uid="uid://dp5vpisw18t5q" path="res://data/base/textures/characters/scarlet/cum/scarlet_cum1.png" id="2_qju4c"]
 
 [node name="Scarlet" type="Node2D"]
 
 [node name="Texture" type="Sprite2D" parent="."]
+texture = ExtResource("1_5fqsg")
 
 [node name="Cum" type="Sprite2D" parent="."]
+visible = false
+texture = ExtResource("2_qju4c")
 
 [node name="HealthComponent" type="Node2D" parent="."]
 script = ExtResource("1_5myrr")

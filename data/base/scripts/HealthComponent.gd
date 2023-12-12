@@ -16,3 +16,6 @@ func damage(amount: float):
 	if health <= 0:
 		print("Character died!")
 		get_parent().queue_free()
+
+func restore():
+	health = max_health
