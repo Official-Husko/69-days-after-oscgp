@@ -1,9 +1,9 @@
 [gd_scene load_steps=5 format=3 uid="uid://17kg1h4cdoog"]
 
-[ext_resource type="Texture2D" uid="uid://b8bbgdvh6ymuu" path="res://data/base/textures/characters/amber/amber_clothes1.png" id="1_3yssn"]
-[ext_resource type="Texture2D" uid="uid://n01thne8hrun" path="res://data/base/textures/characters/amber/amberCum0.png" id="2_oo8tq"]
-[ext_resource type="Script" path="res://data/base/scripts/HealthComponent.gd" id="2_w7saa"]
-[ext_resource type="Script" path="res://data/base/scripts/ClothingComponent.gd" id="3_uncav"]
+[ext_resource type="Texture2D" uid="uid://b8bbgdvh6ymuu" path="res://data/base/Textures/characters/amber/amber_clothes1.png" id="1_3yssn"]
+[ext_resource type="Texture2D" uid="uid://n01thne8hrun" path="res://data/base/Textures/characters/amber/amberCum0.png" id="2_oo8tq"]
+[ext_resource type="Script" path="res://data/base/Scripts/HealthComponent.gd" id="2_w7saa"]
+[ext_resource type="Script" path="res://data/base/Scripts/ClothingComponent.gd" id="3_uncav"]
 
 [node name="Amber" type="Node2D"]
 

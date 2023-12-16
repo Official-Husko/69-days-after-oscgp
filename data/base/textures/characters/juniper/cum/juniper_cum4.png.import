@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dxwwykeg6l3qn"
-path="res://.godot/imported/juniper_cum3.png-e4b9258d8e7428b7a3aec4c478747097.ctex"
+uid="uid://dh8fxtfjg4ehn"
+path="res://.godot/imported/juniper_cum4.png-d3cce50bd5868723c4294888b9192a64.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/base/textures/characters/juniper/juniper_cum3.png"
-dest_files=["res://.godot/imported/juniper_cum3.png-e4b9258d8e7428b7a3aec4c478747097.ctex"]
+source_file="res://data/base/textures/characters/juniper/cum/juniper_cum4.png"
+dest_files=["res://.godot/imported/juniper_cum4.png-d3cce50bd5868723c4294888b9192a64.ctex"]
 
 [params]
 

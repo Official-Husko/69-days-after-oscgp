@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://e83jlc0u7qeu"]
 
-[ext_resource type="Texture2D" uid="uid://cqswy2tpbw8qr" path="res://data/base/textures/loading_screen/car_wreck.png" id="1_eafcj"]
+[ext_resource type="Texture2D" uid="uid://cqswy2tpbw8qr" path="res://data/base/Textures/loading_screen/car_wreck.png" id="1_eafcj"]
 
 [node name="loading_screen" type="CanvasLayer"]
 

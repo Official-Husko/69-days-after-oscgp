@@ -16,6 +16,10 @@ run/main_scene="res://data/base/scenes/cabin_01.tscn"
 config/features=PackedStringArray("4.2", "GL Compatibility")
 config/icon="res://Icon1.png"
 
+[autoload]
+
+AutoLoadTextures="*res://data/base/Scripts/AutoLoadTextures.gd"
+
 [display]
 
 window/stretch/mode="viewport"

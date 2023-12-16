@@ -20,7 +20,7 @@ func _input(event):
 						var health_component = child.get_node("HealthComponent")
 						health_component.damage(25)
 					
-					if child.has_node("ClothingComponent") and child.name.to_lower() == "scarlet":
+					if child.has_node("ClothingComponent"):
 						print("Found ClothingComponent on " + child.name + "!")
 						var clothing_component = child.get_node("ClothingComponent")
 						clothing_component.damage_clothing(5)

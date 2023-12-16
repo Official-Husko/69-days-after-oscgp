@@ -1,9 +1,9 @@
 [gd_scene load_steps=5 format=3 uid="uid://b7vsle2cg8wrq"]
 
-[ext_resource type="Texture2D" uid="uid://bwsm58u2q4hge" path="res://data/base/textures/characters/snow/snowC100.png" id="1_pihs1"]
-[ext_resource type="Texture2D" uid="uid://d1qjb6jjjtaoo" path="res://data/base/textures/characters/snow/snowCum4.png" id="2_27dqg"]
-[ext_resource type="Script" path="res://data/base/scripts/HealthComponent.gd" id="3_c76t3"]
-[ext_resource type="Script" path="res://data/base/scripts/ClothingComponent.gd" id="4_66tt4"]
+[ext_resource type="Texture2D" uid="uid://bwsm58u2q4hge" path="res://data/base/Textures/characters/snow/snowC100.png" id="1_pihs1"]
+[ext_resource type="Texture2D" uid="uid://d1qjb6jjjtaoo" path="res://data/base/Textures/characters/snow/snowCum4.png" id="2_27dqg"]
+[ext_resource type="Script" path="res://data/base/Scripts/HealthComponent.gd" id="3_c76t3"]
+[ext_resource type="Script" path="res://data/base/Scripts/ClothingComponent.gd" id="4_66tt4"]
 
 [node name="Snow" type="Node2D"]
 

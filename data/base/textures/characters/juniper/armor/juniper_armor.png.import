@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wgleu8vpd8nw"
-path="res://.godot/imported/juniper_cum1.png-459cd6d6d3fb1baf21b62d7e1b3a6347.ctex"
+uid="uid://cqmht0e86epm0"
+path="res://.godot/imported/juniper_armor.png-b7aef5cf851e51cfaf1416d53c35866c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/base/textures/characters/juniper/juniper_cum1.png"
-dest_files=["res://.godot/imported/juniper_cum1.png-459cd6d6d3fb1baf21b62d7e1b3a6347.ctex"]
+source_file="res://data/base/textures/characters/juniper/armor/juniper_armor.png"
+dest_files=["res://.godot/imported/juniper_armor.png-b7aef5cf851e51cfaf1416d53c35866c.ctex"]
 
 [params]
 

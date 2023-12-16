@@ -1,0 +1,23 @@
+{
+    "type": "clothing",
+    "defs": [
+        {
+            "internal_id": "default_boots",
+            "name": "Simple Boots",
+            "texture": "res://data/base/Textures/boots.png",
+            "incompatible": ["default_boots_stockings"],
+            "armor": 25,
+            "price": 4,
+            "slot": "footwear"
+        },
+        {
+            "internal_id": "default_boots_stockings",
+            "name": "Simple Boots with Stockings",
+            "texture": "res://data/base/Textures/boots_stockings.png",
+            "incompatible": ["default_boots"],
+            "armor": 30,
+            "price": 6,
+            "slot": "footwear"
+        }
+    ]
+}

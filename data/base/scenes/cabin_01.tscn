@@ -27,7 +27,7 @@
 [ext_resource type="Texture2D" uid="uid://d3hu8a4bfhftx" path="res://data/base/textures/ui/juniper_btn.png" id="30_7xt8t"]
 [ext_resource type="Texture2D" uid="uid://dbgvggmmxlp4c" path="res://data/base/textures/detail/plank2.png" id="31_cpfyk"]
 [ext_resource type="Texture2D" uid="uid://bk0yhxlrm6b46" path="res://data/base/textures/clock/clock_morning.png" id="32_qnydl"]
-[ext_resource type="Script" path="res://data/base/scripts/Clock.gd" id="33_oh23d"]
+[ext_resource type="Script" path="res://data/base/Scripts/Clock.gd" id="33_oh23d"]
 [ext_resource type="Texture2D" uid="uid://batknrqigbx1f" path="res://data/base/textures/items/syringe_blue.png" id="34_jh8p7"]
 [ext_resource type="Texture2D" uid="uid://dcgmx7sd3mxo7" path="res://data/base/textures/items/syringe_green.png" id="35_vg17t"]
 [ext_resource type="Texture2D" uid="uid://bdpidh0vkc7bg" path="res://data/base/textures/items/syringe_red.png" id="36_xel84"]
@@ -83,11 +83,9 @@ texture = ExtResource("7_arbgn")
 position = Vector2(616, 408)
 
 [node name="Raven" parent="Characters" instance=ExtResource("9_xj0n0")]
-visible = false
 position = Vector2(200.75, 453.31)
 
 [node name="Juniper" parent="Characters" instance=ExtResource("10_y5bci")]
-visible = false
 position = Vector2(776, 512)
 
 [node name="Counter" type="Sprite2D" parent="."]

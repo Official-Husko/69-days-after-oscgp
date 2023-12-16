@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bc1ij6wfp4ldm"
-path="res://.godot/imported/raven_clothes.png-2751f72efb78f04a235c67cf92f6d9b6.ctex"
+uid="uid://4ynpyf33dwl1"
+path="res://.godot/imported/raven_armor.png-a57727995dd9755467472e1a51e43154.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/base/textures/characters/raven/raven_clothes.png"
-dest_files=["res://.godot/imported/raven_clothes.png-2751f72efb78f04a235c67cf92f6d9b6.ctex"]
+source_file="res://data/base/textures/characters/raven/armor/raven_armor.png"
+dest_files=["res://.godot/imported/raven_armor.png-a57727995dd9755467472e1a51e43154.ctex"]
 
 [params]
 

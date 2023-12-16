@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dh8fxtfjg4ehn"
-path="res://.godot/imported/juniper_cum4.png-5580dd56828b2918acdcb4276a1aff8d.ctex"
+uid="uid://chip72s1fblin"
+path="res://.godot/imported/raven_base.png-8fee858da83502cee6c6571e61a7bab6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://data/base/textures/characters/juniper/juniper_cum4.png"
-dest_files=["res://.godot/imported/juniper_cum4.png-5580dd56828b2918acdcb4276a1aff8d.ctex"]
+source_file="res://data/base/textures/characters/raven/raven_base.png"
+dest_files=["res://.godot/imported/raven_base.png-8fee858da83502cee6c6571e61a7bab6.ctex"]
 
 [params]
 
